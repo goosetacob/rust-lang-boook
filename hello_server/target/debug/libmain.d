@@ -1,0 +1,1 @@
+/Users/gustavo/Projects/rust-lang-boook/hello_server/target/debug/libmain.rmeta: /Users/gustavo/Projects/rust-lang-boook/hello_server/src/bin/main.rs /Users/gustavo/Projects/rust-lang-boook/hello_server/src/lib.rs
